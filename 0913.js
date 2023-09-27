@@ -81,5 +81,5 @@ if (name === 'ellie') {
 } else if (name ==='coder'){
     console.log('you are amazing coder');
 }else {
-    console.log('unkwnon');
+    console.log('unknown');
 }
